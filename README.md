@@ -39,4 +39,4 @@ A simple implementation of the classic Tic Tac Toe game using **C++**. This proj
    ```bash
    git clone https://github.com/yourusername/tic-tac-toe.git
 cd tic-tac-toe
-open file.cpp
+open fil.cpp
